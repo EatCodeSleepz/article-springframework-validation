@@ -28,4 +28,5 @@ If we include `spring-boot-starter-validation`, the `Hibernate Validator` has be
 Without need to deploy the code and manual input, call the endpoint.
 Of course if readers prefer to deploy the code, no problem. Test cases in this article by no means to act as a 'normal test case'; to test the codes.
 
-To start, please open `table-of-content.md`. Happy reading :)
+To start, please open [Table of Content](https://gitlab.com/ronyxu/article-springframework-validation/-/blob/main/table-of-content.md).
+Happy reading :)
